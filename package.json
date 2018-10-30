@@ -1,12 +1,8 @@
 {
-    "name": "react-googlefeedback",
+    "name": "feedback",
     "main": "dist/npm/feedback.js",
     "version": "1.0.8",
-    "description": "Google-style feedback component",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mai-kuraki/googleFeedback.git"
-    },
+    "description": "https://github.com/leochan2017/feedback",
     "keywords": [
         "google",
         "feedback",
@@ -16,9 +12,9 @@
         "hightlight"
     ],
     "author": {
-        "name": "maikuraki",
-        "email": "1530850503@qq.com",
-        "url": "https://github.com/mai-kuraki/googleFeedback.git"
+        "name": "Leo",
+        "email": "leochan2017@gmail.com",
+        "url": "https://github.com/leochan2017/feedback"
     },
     "scripts": {
         "start": "node ./app.js",
