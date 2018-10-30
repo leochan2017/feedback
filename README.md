@@ -1,6 +1,4 @@
 # shanzhai feedback from google
-![](https://user-gold-cdn.xitu.io/2018/5/22/16386e2e8dca1808?w=419&h=259&f=gif&s=1950244)
-![](https://user-gold-cdn.xitu.io/2018/5/17/1636cec56d528280?w=255&h=420&f=gif&s=1070950)
 
 ### DOCUMENT
 #### 1.Install
